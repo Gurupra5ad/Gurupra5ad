@@ -9,12 +9,13 @@
 - 🔭 I’m currently working on Web development, Python, Industrial automation, Robotics
 - 🌱 I’m currently learning Machine learning and Deep learning
 - 👯 I’m looking to collaborate on Web development, Automation, Robotics projects
-- 🤔 I’m looking for help with ROS, ML & DL
 - 💬 Ask me about Entrepreneurship, Robotics, Web development, Python
 
 - 🤙🏽 Looking for Freelancing Projects and Open for startup colloborations !
 
 - 📫 How to reach me: 📲 9994987315, 📩 guruprasad2511@gmail.com
 
-![Guru's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gurupra5ad&show_icons=true&theme=radical) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gurupra5ad&layout=compact)](https://github.com/Gurupra5ad/github-readme-stats)
+![Guru's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gurupra5ad&show_icons=true&theme=radical) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gurupra5ad&layout=compact)](https://github.com/Gurupra5ad/github-readme-stats)
 
