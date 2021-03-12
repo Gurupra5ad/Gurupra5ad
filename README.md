@@ -16,3 +16,4 @@
 
 - 📫 How to reach me: 📲 9994987315, 📩 guruprasad2511@gmail.com
 
+![Guru's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gurupra5ad&hide=contribs,prs)
