@@ -18,3 +18,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gurupra5ad&layout=compact&theme=radical)](https://github.com/Gurupra5ad/github-readme-stats)
 
 ![Guru's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gurupra5ad&show_icons=true&theme=radical) 
+
+[![Guru prasad's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Gurupra5ad)](https://github.com/Gurupra5ad/github-readme-stats)
