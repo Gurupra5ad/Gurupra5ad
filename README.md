@@ -16,6 +16,5 @@
 
 - 📫 How to reach me: 📲 9994987315, 📩 guruprasad2511@gmail.com
 
-![Guru's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gurupra5ad&show_icons=true&theme=radical)
+![Guru's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gurupra5ad&show_icons=true&theme=radical) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gurupra5ad&layout=compact)](https://github.com/Gurupra5ad/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gurupra5ad&layout=compact)](https://github.com/Gurupra5ad/github-readme-stats)
