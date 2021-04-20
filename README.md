@@ -42,4 +42,4 @@
 <a href="mailto:guruprasad2511@gmail.com"><img src="https://img.shields.io/badge/-guruprasad2511@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/__itz_guru_here__/"><img src="https://img.shields.io/badge/-@Gurupra5ad-1877F2?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gurupra5adl&" alt="Gurupra5ad" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gurupra5ad&" alt="Gurupra5ad" /></p>
