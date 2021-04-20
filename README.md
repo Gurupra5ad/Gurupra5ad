@@ -1,6 +1,6 @@
 ### <h1 align="center">Hi 👋, I'm Guru Prasad</h1>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gurupra5ad&color=blueviolet&style=flat">
+  <img src="https://komarev.com/ghpvc/?username=Gurupra5ad&color=yellow&style=flat">
 </p>
 
 - https://gurupra5ad.herokuapp.com/ - Check it out ! 
