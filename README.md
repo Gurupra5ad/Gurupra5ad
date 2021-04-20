@@ -17,16 +17,11 @@
 
 - 📫 How to reach me: 📲 9994987315, 📩 guruprasad2511@gmail.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gurupra5ad&layout=compact&theme=radical)](https://github.com/Gurupra5ad/github-readme-stats)
-
-![Guru's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gurupra5ad&show_icons=true&theme=radical) 
-
-
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/Gurupra5ad">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Gurupra5ad&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Gurupra5ad&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Gurupra5ad&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Gurupra5ad&layout=compact&langs_count=8&theme=radical"/>
 </a>
 </p>
