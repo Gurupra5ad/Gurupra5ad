@@ -3,7 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=Gurupra5ad&color=yellow&style=flat">
 </p>
 
-- https://gurupra5ad.herokuapp.com/ - Check it out ! 
+<h3>https://gurupra5ad.herokuapp.com/ - Check it out !</h3>
 
 -  I'm a Chennai based web designer & full stack developer focused on crafting clean & user‑friendly experiences.
     I am passionate about building excellent software that enhances the lives of those around me and
