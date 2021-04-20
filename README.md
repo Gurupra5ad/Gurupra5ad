@@ -1,8 +1,8 @@
-### Hi there 👋
+### <h1 align="center">Hi 👋, I'm Guru Prasad</h1>
 
 - https://gurupra5ad.herokuapp.com/ - Check it out ! 
 
-- Guru here, I'm a Chennai based web designer & full stack developer focused on crafting clean & user‑friendly experiences.
+-  I'm a Chennai based web designer & full stack developer focused on crafting clean & user‑friendly experiences.
     I am passionate about building excellent software that enhances the lives of those around me and
     I hope to contribute my fullest towards addressing real world problems with robotic solutions.
 
