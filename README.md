@@ -5,15 +5,14 @@
 
 <h3>https://gurupra5ad.herokuapp.com/ - Check it out !</h3>
 
--  I'm a Chennai based web designer & full stack developer focused on crafting clean & user‑friendly experiences.
+<p>I'm a Chennai based web designer & full stack developer focused on crafting clean & user‑friendly experiences.
     I am passionate about building excellent software that enhances the lives of those around me and
-    I hope to contribute my fullest towards addressing real world problems with robotic solutions.
+    I hope to contribute my fullest towards addressing real world problems with robotic solutions.</p>
 
-- 👨🏽‍💼 CEO and Founder of MeChonyX
+<p>👨🏽‍💼 CEO and Founder of MeChonyX</p>
       
 - 🔭 I’m currently working on Web development, Python, Industrial automation, Robotics
 - 🌱 I’m currently learning Machine learning and Deep learning
-- 👯 I’m looking to collaborate on Web development, Automation, Robotics projects
 - 💬 Ask me about Entrepreneurship, Robotics, Web development, Python
 
 - 🤙🏽 Looking for Freelancing Projects and Open for startup colloborations !
