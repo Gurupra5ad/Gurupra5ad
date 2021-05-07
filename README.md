@@ -9,15 +9,14 @@
     I am passionate about building excellent software that enhances the lives of those around me and
     I hope to contribute my fullest towards addressing real world problems with robotic solutions.</p>
 
-<p>👨🏽‍💼 CEO and Founder of MeChonyX</p>
+<h4>👨🏽‍💼 CEO and Founder of MeChonyX</p>
       
 - 🔭 I’m currently working on Web development, Python, Industrial automation, Robotics
-- 🌱 I’m currently learning Machine learning and Deep learning
 - 💬 Ask me about Entrepreneurship, Robotics, Web development, Python
 
 - 🤙🏽 Looking for Freelancing Projects and Open for startup colloborations !
 
-- 📫 How to reach me: 📲 9994987315, 📩 guruprasad2511@gmail.com
+- 📫 How to reach me: 📲 9994987315
 
 <h3 align="left">Languages and Tools:</h3>
 
