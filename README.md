@@ -1,16 +1,15 @@
 ### <h1 align="center">Hi 👋, I'm Guru Prasad</h1>
-<p align="center">
+<h3 align="center">
   <img src="https://komarev.com/ghpvc/?username=Gurupra5ad&color=yellow&style=flat">
-</p>
+</h3>
 
+<h4>👨🏽‍💼 CEO and Founder of MeChonyX</p>
 <h3>https://gurupra5ad.herokuapp.com/ - Check it out !</h3>
 
 <p>I'm a Chennai based web designer & full stack developer focused on crafting clean & user‑friendly experiences.
     I am passionate about building excellent software that enhances the lives of those around me and
     I hope to contribute my fullest towards addressing real world problems with robotic solutions.</p>
-
-<h4>👨🏽‍💼 CEO and Founder of MeChonyX</p>
-      
+    
 - 🔭 I’m currently working on Web development, Python, Industrial automation, Robotics
 - 💬 Ask me about Entrepreneurship, Robotics, Web development, Python
 
