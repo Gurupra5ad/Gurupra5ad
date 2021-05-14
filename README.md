@@ -10,12 +10,9 @@
     I am passionate about building excellent software that enhances the lives of those around me and
     I hope to contribute my fullest towards addressing real world problems with robotic solutions.</p>
     
-- 🔭 I’m currently working on Web development, Python, Industrial automation, Robotics
-- 💬 Ask me about Entrepreneurship, Robotics, Web development, Python
+<p> 🤙🏽 Looking for Freelancing Projects and Open for startup colloborations ! </p>
 
-- 🤙🏽 Looking for Freelancing Projects and Open for startup colloborations !
-
-- 📫 How to reach me: 📲 9994987315
+<p> 📫 How to reach me: 📲 9994987315 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 
