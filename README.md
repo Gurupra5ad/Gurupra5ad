@@ -26,7 +26,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Gurupra5ad&layout=compact&langs_count=8&theme=dracula"/>
 </a>
 </p>
-<p align="center"><img height="180em"src="](https://github-readme-streak-stats.herokuapp.com/?&theme=dracula&user=Gurupra5ad" alt="Gurupra5ad" /></p>
+<p align="center"><img height="180em"src="https://github-readme-streak-stats.herokuapp.com/?&theme=dracula&user=Gurupra5ad" alt="Gurupra5ad" /></p>
 <br>
 
 [![Guru Prasad GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Gurupra5ad&theme=xcode)](https://github.com/gurupra5ad)
