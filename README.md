@@ -22,13 +22,14 @@
 
 <p align="center">
 <a href="https://github.com/Gurupra5ad">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Gurupra5ad&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Gurupra5ad&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Gurupra5ad&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Gurupra5ad&layout=compact&langs_count=8&theme=dracula"/>
 </a>
 </p>
-<p align="center"><img height="180em"src="https://github-readme-streak-stats.herokuapp.com/?user=Gurupra5ad&theme=radical" alt="Gurupra5ad" /></p>
+<p align="center"><img height="180em"src="](https://github-readme-streak-stats.herokuapp.com/?&theme=dracula&user=Gurupra5ad" alt="Gurupra5ad" /></p>
 <br>
 
+[![Guru Prasad GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Gurupra5ad&theme=xcode)](https://github.com/gurupra5ad)
 
 ### 🤝🏻 &nbsp;Connect with Me
 
@@ -40,7 +41,3 @@
 </p>
 
 
-### GitHub Contributions
-![Guru Prasad GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?&theme=dracula&user=Gurupra5ad)
-
-[![Guru Prasad GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Gurupra5ad&theme=xcode)](https://github.com/gurupra5ad)
