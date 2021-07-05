@@ -43,4 +43,4 @@
 ### GitHub Contributions
 ![Guru Prasad GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?&theme=dracula&user=Gurupra5ad)
 
-[![Guru Prasad GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hariketsheth&theme=xcode)](https://github.com/gurupra5ad)
+[![Guru Prasad GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Gurupra5ad&theme=xcode)](https://github.com/gurupra5ad)
