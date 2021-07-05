@@ -38,3 +38,9 @@
 <a href="mailto:guruprasad2511@gmail.com"><img src="https://img.shields.io/badge/-guruprasad2511@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/__itz_guru_here__/"><img src="https://img.shields.io/badge/-@Gurupra5ad-1877F2?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
+
+
+### GitHub Contributions
+![Guru Prasad GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?&theme=dracula&user=Gurupra5ad)
+
+[![Guru Prasad GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hariketsheth&theme=xcode)](https://github.com/gurupra5ad)
